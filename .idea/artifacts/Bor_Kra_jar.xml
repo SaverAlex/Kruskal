@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Bor-Kra:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bor_Kra_jar</output-path>
+    <root id="archive" name="Bor-Kra.jar">
+      <element id="module-output" name="Bor-Kra" />
+    </root>
+  </artifact>
+</component>
